@@ -1,0 +1,131 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/iiBesh00/Desktop/pro
+vDevelopmentTB
+Z0 !s110 1622623348
+!i10b 1
+!s100 iz?d`UzUG[26_NAA<[@H`2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I9?YfEm9=I[k<1`86hO:f63
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dE:/CMP/CMP12/Projects/Logic Project/SPI
+w1622109903
+8E:/CMP/CMP12/Projects/Logic Project/SPI/DevelopmentTB.v
+FE:/CMP/CMP12/Projects/Logic Project/SPI/DevelopmentTB.v
+!i122 80
+L0 1 111
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1622623348.000000
+!s107 E:/CMP/CMP12/Projects/Logic Project/SPI/DevelopmentTB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/CMP/CMP12/Projects/Logic Project/SPI/DevelopmentTB.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+n@development@t@b
+vMaster
+!s110 1622629166
+!i10b 1
+!s100 M`EJI0feo9LIejnkg[fdR1
+R1
+I=g<Pj8Z^Rge5Fm9KcaYKX2
+R2
+R3
+w1622629163
+8E:/CMP/CMP12/Projects/Logic Project/SPI/Master.v
+FE:/CMP/CMP12/Projects/Logic Project/SPI/Master.v
+!i122 83
+L0 1 83
+R4
+r1
+!s85 0
+31
+!s108 1622629166.000000
+!s107 E:/CMP/CMP12/Projects/Logic Project/SPI/Master.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/CMP/CMP12/Projects/Logic Project/SPI/Master.v|
+!i113 1
+R6
+R7
+n@master
+vMasterTB
+R0
+!i10b 1
+!s100 biGlk`B[4EY5Q47m5m5=S1
+R1
+I1>I9bUT=_8<^35b<6^mh=0
+R2
+R3
+w1622217165
+8E:/CMP/CMP12/Projects/Logic Project/SPI/MasterTB.v
+FE:/CMP/CMP12/Projects/Logic Project/SPI/MasterTB.v
+!i122 82
+L0 1 65
+R4
+r1
+!s85 0
+31
+R5
+!s107 E:/CMP/CMP12/Projects/Logic Project/SPI/MasterTB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/CMP/CMP12/Projects/Logic Project/SPI/MasterTB.v|
+!i113 1
+R6
+R7
+n@master@t@b
+vSlave
+R0
+!i10b 1
+!s100 Sf>_[V>4QA@:iMG7h4GWo2
+R1
+I7>G@cnj08zz7fhL3JzVfR3
+R2
+R3
+w1622482621
+8E:/CMP/CMP12/Projects/Logic Project/SPI/Slave.v
+FE:/CMP/CMP12/Projects/Logic Project/SPI/Slave.v
+!i122 79
+L0 1 63
+R4
+r1
+!s85 0
+31
+R5
+!s107 E:/CMP/CMP12/Projects/Logic Project/SPI/Slave.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/CMP/CMP12/Projects/Logic Project/SPI/Slave.v|
+!i113 1
+R6
+R7
+n@slave
+vSlaveTB
+R0
+!i10b 1
+!s100 W?55f[m[M1:zU@Lk2MMB=3
+R1
+IH]R=Nm6ijRcmoiJRhH=MP2
+R2
+R3
+w1622216495
+8E:/CMP/CMP12/Projects/Logic Project/SPI/SlaveTB.v
+FE:/CMP/CMP12/Projects/Logic Project/SPI/SlaveTB.v
+!i122 81
+L0 1 61
+R4
+r1
+!s85 0
+31
+R5
+!s107 E:/CMP/CMP12/Projects/Logic Project/SPI/SlaveTB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/CMP/CMP12/Projects/Logic Project/SPI/SlaveTB.v|
+!i113 1
+R6
+R7
+n@slave@t@b

@@ -1,0 +1,36 @@
+{E:/CMP/CMP12/Projects/Logic Project/SPI/DevelopmentTB.v} {1 {vlog -work work -stats=none {E:/CMP/CMP12/Projects/Logic Project/SPI/DevelopmentTB.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module DevelopmentTB
+
+Top level modules:
+	DevelopmentTB
+
+} {} {}} {E:/CMP/CMP12/Projects/Logic Project/SPI/SlaveTB.v} {1 {vlog -work work -stats=none {E:/CMP/CMP12/Projects/Logic Project/SPI/SlaveTB.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module SlaveTB
+
+Top level modules:
+	SlaveTB
+
+} {} {}} {E:/CMP/CMP12/Projects/Logic Project/SPI/MasterTB.v} {1 {vlog -work work -stats=none {E:/CMP/CMP12/Projects/Logic Project/SPI/MasterTB.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module MasterTB
+
+Top level modules:
+	MasterTB
+
+} {} {}} {E:/CMP/CMP12/Projects/Logic Project/SPI/Slave.v} {1 {vlog -work work -stats=none {E:/CMP/CMP12/Projects/Logic Project/SPI/Slave.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Slave
+
+Top level modules:
+	Slave
+
+} {} {}} {E:/CMP/CMP12/Projects/Logic Project/SPI/Master.v} {1 {vlog -work work -stats=none {E:/CMP/CMP12/Projects/Logic Project/SPI/Master.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Master
+
+Top level modules:
+	Master
+
+} {} {}}

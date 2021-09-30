@@ -1,0 +1,52 @@
+# Compile of Master.v was successful.
+vsim -gui work.DevelopmentTB
+# vsim -gui work.DevelopmentTB 
+# Start time: 12:19:35 on Jun 02,2021
+# Loading work.DevelopmentTB
+# Loading work.Master
+# Loading work.Slave
+add wave -position insertpoint sim:/DevelopmentTB/*
+run
+# Running test set           1
+run
+run
+run
+run
+# From Slave 0 to Master: Success
+# From Master to Slave 0: Success
+run
+run
+run
+run
+# From Slave 1 to Master: Success
+# From Master to Slave 1: Success
+run
+run
+run
+run
+# From Slave 2 to Master: Success
+# From Master to Slave 2: Success
+# Running test set           2
+run
+run
+run
+run
+# From Slave 0 to Master: Success
+# From Master to Slave 0: Success
+run
+run
+run
+run
+run
+# From Slave 1 to Master: Success
+# From Master to Slave 1: Success
+run
+run
+run
+run
+# From Slave 2 to Master: Success
+# From Master to Slave 2: Success
+# SUCCESS: All          12 testcases have been successful
+run
+# End time: 12:20:05 on Jun 02,2021, Elapsed time: 0:00:30
+# Errors: 0, Warnings: 2
